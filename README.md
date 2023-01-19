@@ -49,6 +49,7 @@ Part 2 - After scraping the table containing temperature data for Mars, the foll
 ## Conclusions
 Web scraping provides many benefits for those who use it.
 ![image](https://user-images.githubusercontent.com/115101031/213495987-09267e8d-55fa-42a1-984c-6a4f84c163b0.png)
+
 Source: https://raluca-p.medium.com/why-web-scraping-a-full-list-of-advantages-and-disadvantages-fdbb9e8ed010 
 
 However, it also presents some challenges that can make effective data analysis difficult:
