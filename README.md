@@ -1,5 +1,5 @@
 # Mission to Mars: HTML-Web-Scraping
-Taking a trip to Mars on the Web!
+Exploring Mars on the World Wide Web!
 
 ![extraction](https://user-images.githubusercontent.com/115101031/213329422-63ae8cc0-0f00-4442-a786-197a9b199fa1.png)
 
