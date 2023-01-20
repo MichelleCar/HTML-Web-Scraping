@@ -44,8 +44,6 @@ Part 2 - After scraping the table containing temperature data for Mars, the foll
 * Months with the lowest and highest atmospheric pressure on Mars were month 6 (745.05) and 9 (913.31) as presented in the table below. 
 <img width="630" alt="Screenshot 2023-01-18 at 8 50 37 PM" src="https://user-images.githubusercontent.com/115101031/213336812-1dd91288-4700-4117-8150-a334b6a965f3.png">
 
-* During the duration of the exploration by Curiosity, 3804 terrestrial (earth) days passed.  
-
 ## Conclusions
 Web scraping provides many benefits for those who use it.
 ![image](https://user-images.githubusercontent.com/115101031/213495987-09267e8d-55fa-42a1-984c-6a4f84c163b0.png)
